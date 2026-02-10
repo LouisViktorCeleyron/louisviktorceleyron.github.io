@@ -71,4 +71,4 @@ kramdown:
   show_warnings     : false
 
   # Modifications Louis
-theme : jekyll-theme-cayman
+theme: jekyll-theme-cayman
